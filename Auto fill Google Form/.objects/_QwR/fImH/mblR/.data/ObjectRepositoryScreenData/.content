@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="0jlAgzmxnEifrWC2IbLIAQ" Reference="caD7N4WV0UeZJ8YUAqZZJQ/mblRhFDqc0aXUxYSJmbAYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1616, 868" BrowserType="Chrome" ContentHash="Sp9pxAM7PUm9wQ4kFsNJqw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAABESURBVDhPY0i32n4g3Wr7fzLxfgYsgiThQWYADCCzsQHaGUAOpq4LkBXgAzgNIAdT1wXICvABnAaQgweHAfvRBUnAuwEl0a7q96YPWgAAAABJRU5ErkJggg==" Reference="caD7N4WV0UeZJ8YUAqZZJQ/mblRhFDqc0aXUxYSJmbAYQ" Selector="&lt;html app='chrome.exe' title='Google Form Automation' /&gt;" Url="https://docs.google.com/forms/d/e/1FAIpQLSfvP8sL6wZjtk7Xe3BpPEMCePNGM9Wx1gXPaIrwVheXQZ96wg/viewform?pli=1" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="95a2b8c833a8d260ca3a0a1a68c7ef56.jpg" xmlns="">03GgWWxAy2kmLvzx6qzh68A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,6 @@
+{
+  "Name": "looping acivity mn",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

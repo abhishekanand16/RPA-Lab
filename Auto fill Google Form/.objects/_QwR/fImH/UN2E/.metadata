@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Google Form Automation - Google Chrome",
+  "Type": "Screen",
+  "Id": "UN2EzZzxRESitrFKOJYbVw",
+  "Reference": "caD7N4WV0UeZJ8YUAqZZJQ/UN2EzZzxRESitrFKOJYbVw",
+  "ParentRef": "caD7N4WV0UeZJ8YUAqZZJQ/fImHIGax40qHslFiMHimnA",
+  "Created": "2025-12-16T06:20:11.0666183Z",
+  "Updated": "2025-12-16T06:20:11.0666183Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

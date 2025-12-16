@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6ATzQOI0xkKzY04AWEB4Sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfvP8sL6wZjtk7Xe3BpPEMCePNGM9Wx1gXPaIrwVheXQZ96wg/viewform" CVScreenId="62f8495a-b374-44a8-8ff2-1046efe35049" CvTextArea="505, 534, 108, 15" CvTextArgument="Phone Number" CvType="Text" DesignTimeRectangle="506, 531, 106, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='i31' tag='SPAN' /&gt;" Guid="5c9e3cf5-8c42-4c8c-801f-6e6c19aef9a8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Form Automation' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="62f8495a-b374-44a8-8ff2-1046efe35049" CvElementArea="503, 578, 300, 33" CvType="InputBox" DesignTimeRectangle="506, 587, 79, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Your answer' type='' class='ndJi5d snByac' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Your answer' /&gt;" Guid="c612885a-cd7c-480d-8254-3a66893a6b23" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e65451bd9f54b2f879449824b1e7cdfc.png" xmlns="">0gRA60R4Z2UOcRVBJS5s38Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

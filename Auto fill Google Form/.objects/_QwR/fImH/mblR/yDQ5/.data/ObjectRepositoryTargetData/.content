@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jjhn2qFPl0e6KZkIsw79Bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSfvP8sL6wZjtk7Xe3BpPEMCePNGM9Wx1gXPaIrwVheXQZ96wg/formResponse" CVScreenId="eabfd8a1-7f73-4321-a7dc-2eed45b301fc" CvTextArea="512, 298, 158, 16" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="513, 298, 156, 17" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" Guid="1cbf70be-0584-48ea-966c-1d9151023c1b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Form Automation' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2e8d4f17612b0bda729342ae35b65b41.png" xmlns="">0NnkS4gKB_kKP3WzLEWXEAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

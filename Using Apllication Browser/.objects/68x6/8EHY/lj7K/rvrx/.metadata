@@ -1,0 +1,13 @@
+﻿{
+  "Name": "if(window.mix_csa){wind…",
+  "Type": "Element",
+  "Id": "rvrxnsJB0EWxIadpSyyxPg",
+  "Reference": "riaMbUJZL0SUFpTdRqOZOw/rvrxnsJB0EWxIadpSyyxPg",
+  "ParentRef": "riaMbUJZL0SUFpTdRqOZOw/lj7K4JMIrUytZ3d0apQodQ",
+  "Created": "2025-12-11T06:52:07.5519445Z",
+  "Updated": "2025-12-11T06:52:07.5519445Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

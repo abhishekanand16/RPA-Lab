@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CmFccQM0LUCgNeL6_R6Fkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfvP8sL6wZjtk7Xe3BpPEMCePNGM9Wx1gXPaIrwVheXQZ96wg/viewform" CVScreenId="2c9e09e5-4373-4713-965f-0c151cca618c" CvTextArea="504, 550, 60, 15" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="506, 523, 58, 48" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='i21' tag='SPAN' /&gt;" Guid="61717c2c-f593-4ace-8cc4-b51a4d7dedf2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Form Automation' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2c9e09e5-4373-4713-965f-0c151cca618c" CvElementArea="504, 593, 594, 32" CvType="InputBox" DesignTimeRectangle="506, 601, 590, 24" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='TEXTAREA' /&gt;" Guid="95090d0c-f739-4fb8-a225-6ecbff17b081" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b68d341708726cc794c2e4d0e0fc85b0.png" xmlns="">0maf8MTgYGkmQaWyvjWrF0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
