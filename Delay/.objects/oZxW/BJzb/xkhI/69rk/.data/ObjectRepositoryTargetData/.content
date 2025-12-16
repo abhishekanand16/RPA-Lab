@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CSlBpNHkIEuUYa9s45KZPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/identifier" CVScreenId="abd75f21-3e92-41fb-b67a-cd56be81b45d" CvElementArea="831, 364, 461, 58" CvType="InputBox" DesignTimeRectangle="833, 392, 458, 54" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='identifierId' tag='INPUT' type='email' class='whsOnd zHQkBf' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="bb1900fe-bfcb-4b32-83fd-4757cc507f61" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in with your Google Account to continue to Gmail. This account will be available to other Google apps in the browser.' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="abd75f21-3e92-41fb-b67a-cd56be81b45d" CvElementArea="831, 364, 461, 58" CvType="InputBox" DesignTimeRectangle="840, 409, 124, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Email or phone' tag='DIV' type='' class='AxOyFc snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Email or phone' /&gt;" Guid="cfcad85e-89dc-4d0f-8103-b4e64795accf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ba8e081852e39ac0f350ee438303e2f4.png" xmlns="">0O_v16qmKrkm4VBiKnlMcMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

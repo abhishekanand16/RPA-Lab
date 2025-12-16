@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LhvM8gfniEK8npUs8mqqTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/identifier" CVScreenId="abd75f21-3e92-41fb-b67a-cd56be81b45d" CvElementArea="831, 364, 461, 58" CvType="InputBox" DesignTimeRectangle="840, 383, 124, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Email or phone' tag='DIV' /&gt;" Guid="4cdf55f9-3159-4e0c-8f43-f56f41694924" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in with your Google Account to continue to Gmail. This account will be available to other Google apps in the browser.' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a5997b6618ed5b4576252c10e1a8f4a1.png" xmlns="">0UfVrkWADskCYNN3ruUXvMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Extensions",
+  "Type": "App",
+  "Id": "DQpSAxqShkiTgCZM8fLuJg",
+  "Reference": "HSGqsiDouUSsV6uOlhWbRg/DQpSAxqShkiTgCZM8fLuJg",
+  "Created": "2025-10-28T08:48:28.8100262Z",
+  "Updated": "2025-10-28T08:48:28.8100262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
