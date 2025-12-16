@@ -1,0 +1,6 @@
+{
+  "Name": "data scrapping",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
