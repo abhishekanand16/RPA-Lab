@@ -1,0 +1,6 @@
+{
+  "Name": "Gmail Automation",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
